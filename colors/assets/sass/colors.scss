@@ -1,0 +1,41 @@
+$background-color_1: #2196f3;
+$background-color_2: #777;
+$background-color_3: #4caf50;
+$background-color_4: #00bcd4;
+$background-color_5: #ff7043;
+$background-color_6: #f44336;
+$background-color_7: #fafafa;
+$background-color_8: #324148;
+$background-color_9: #fff;
+$background-color_10: transparent;
+
+.bg-primary {
+	background-color: $background-color_1 !important;
+}
+.bg-secondary {
+	background-color: $background-color_2 !important;
+}
+.bg-success {
+	background-color: $background-color_3 !important;
+}
+.bg-info {
+	background-color: $background-color_4 !important;
+}
+.bg-warning {
+	background-color: $background-color_5 !important;
+}
+.bg-danger {
+	background-color: $background-color_6 !important;
+}
+.bg-light {
+	background-color: $background-color_7 !important;
+}
+.bg-dark {
+	background-color: $background-color_8 !important;
+}
+.bg-white {
+	background-color: $background-color_9 !important;
+}
+.bg-transparent {
+	background-color: $background-color_10 !important;
+}
